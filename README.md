@@ -1,4 +1,3 @@
-# flutter_shopping_cart
+# Flutter Shopping Cart
 
-A new Flutter project.
-
+Shopping cart project template in dart/flutter
